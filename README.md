@@ -81,9 +81,11 @@ Renders an SVG-connected network layout of a secure VPC. Toggling simulation tri
 
 A screen recording demonstrating the interactive features of the 3D portfolio, including the dynamic mascots carousel, the admin control panel, and the interactive playgrounds (RAG, LLM Benchmarks, AWS VPC Topology):
 
-<video src="public/demo.mp4" width="100%" controls></video>
 
-Note: Place your demo recording as demo.mp4 in the public directory to enable local playback, or replace the source path with a hosted video URL (such as Loom or YouTube embed).
+https://github.com/user-attachments/assets/8c54f2aa-d1d5-43c7-b63c-7c4d05e0c375
+
+
+
 
 ---
 
